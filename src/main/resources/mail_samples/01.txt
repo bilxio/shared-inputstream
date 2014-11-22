@@ -1,0 +1,13 @@
+From: sales@godaddy.com
+To: <admin@noname.com>
+Subject: Shop and save 20%. It's on us.
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_545CD991_091BE718_4682BD45"
+Content-Transfer-Encoding: 8Bit
+Date: Fri, 7 Nov 2014 22:39:13 +0800
+X-Priority: 3
+Message-ID: <xxxxxx_55E955A0748647FC568AAFE2@xxx.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
